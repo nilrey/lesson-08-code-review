@@ -1,2 +1,5 @@
-# lesson-08-code-review
-yandex practicum 2 sprint - write a Pull Request
+# Предсказание стоимости поездки в сервисе такси
+
+## Для запуска введите
+
+Run main.py
